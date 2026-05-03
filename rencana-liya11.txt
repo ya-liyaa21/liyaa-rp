@@ -4,3 +4,4 @@
 - Mampu melakukan konfigurasi IP dan subnetting
 - Latihan instalasi dan konfigurasi server
 - Meningkatkan skill penggunaan Linux
+- Lebih aktif saat praktik di lab
