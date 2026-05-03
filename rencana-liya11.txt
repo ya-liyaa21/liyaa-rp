@@ -1,7 +1,7 @@
 # RENCANA LIYAA
 
- - Memahami konsep dasar jaringan komputer
+- Memahami konsep dasar jaringan komputer
 - Mampu melakukan konfigurasi IP dan subnetting
 - Latihan instalasi dan konfigurasi server
-- Meningkatkan skill penggunaan Linux
 - Lebih aktif saat praktik di lab
+- Mencapai hasil yang lebih baik di bidang TKJ
