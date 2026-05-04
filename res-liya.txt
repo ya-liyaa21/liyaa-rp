@@ -3,6 +3,7 @@
 - Memahami konsep dasar jaringan komputer
   *belajar lebih giat lagi
   *mengurangi bermain gadge
+   ^membeli buku tentang tkj
 - Lebih aktif saat praktik di lab
 - Mampu melakukan konfigurasi IP dan subnetting
 - Latihan instalasi dan konfigurasi server
