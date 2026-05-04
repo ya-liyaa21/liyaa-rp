@@ -1,0 +1,6 @@
+# RENCANA Liya
+
+- Memahami konsep dasar jaringan komputer
+- Mampu melakukan konfigurasi IP dan subnetting
+- Latihan instalasi dan konfigurasi server
+- Meningkatkan skill penggunaan Linux
